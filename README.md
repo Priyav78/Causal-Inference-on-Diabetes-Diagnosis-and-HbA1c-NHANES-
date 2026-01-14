@@ -1,6 +1,6 @@
 # Causal Inference on Diabetes and HbA1c using NHANES Data
 
-This project estimates the causal effect of diabetes diagnosis on glycemic control (HbA1c levels) using nationally representative data from the NHANES survey. We apply advanced causal inference methods—including propensity score matching (PSM), inverse probability of treatment weighting (IPTW), and regression adjustment—to reduce bias and estimate counterfactual outcomes.
+This project estimates the causal effect of diabetes diagnosis on glycemic control (HbA1c levels) using nationally representative data from the NHANES survey. Advanced causal inference methods were applied—including propensity score matching (PSM), inverse probability of treatment weighting (IPTW), and regression adjustment—to reduce bias and estimate counterfactual outcomes.
 
 ## Objectives
 
