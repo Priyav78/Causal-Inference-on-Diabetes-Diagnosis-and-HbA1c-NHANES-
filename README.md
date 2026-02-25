@@ -1,4 +1,4 @@
-# Causal Inference: Effect of Low Income on HbA1c Levels (NHANES)
+# Causal Inference: Low Income and HbA1c Levels (NHANES)
 
 This project estimates the causal effect of low income (Income-to-Poverty Ratio < 1.0) on glycemic control (HbA1c levels) using nationally representative data from the NHANES 2011–2012 survey. Two independent causal inference methods — propensity score matching (PSM) and inverse probability of treatment weighting (IPTW) — are applied to remove demographic confounding and estimate a defensible average treatment effect.
 
